@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import cards from "../data/categories";
+import cards from "../Data/Categories";
 import Navbar from "../Components/Navbar";
 
 function CardDetails() {

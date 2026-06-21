@@ -8,7 +8,7 @@ import CategoryCard from '../Components/CategoriesCard';
  import pharmacy from "../assets/pharmasy1.png";
 import petcare from "../assets/petcare1.png";
 import diaper from "../assets/diaper1.png";
-import categories from '../data/categories';
+import categories from '../Data/Categories';
 import Hero from '../Components/Hero';
 import ProductCards from '../Components/ProductCart';
 import TopProduct from '../Components/TopProduct';

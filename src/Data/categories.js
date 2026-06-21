@@ -3,7 +3,7 @@ import dairy from "../assets/diary.png";
 import fruits from "../assets/fruits.png";
 // import drinks from "./assets/drinks.png";
 
-const categories = [
+const Categories = [
   {
     id: 1,
     title: "Paan Corner",
@@ -68,4 +68,4 @@ const categories = [
    
 ];
 
-export default categories;
+export default Categories;
