@@ -8,7 +8,8 @@ FaThreads,
 import { FaXTwitter } from "react-icons/fa6";
 
 function Footer() {
-return ( <footer className="bg-white mt-10"> <div className="max-w-full mx-auto px-6 py-10">
+return ( 
+<footer className="bg-white mt-10"> <div className="max-w-full mx-auto px-6 py-10">
 
 
     {/* Top Section */}
